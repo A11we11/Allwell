@@ -157,11 +157,11 @@ const developer = {
 </div>
 --->
 ---
-
+<!---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=A855F7" alt="Profile views"/>
 </div>
-
+--->
 **💡 Fun Fact**: I can turn any design mockup into pixel-perfect React components faster than you can say "useState"! 🚀
 
 <div align="center">
